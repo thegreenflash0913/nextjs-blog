@@ -10,6 +10,14 @@
   "dependencies": {
     "next": "^11.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "@ibm-cloud/cloudant": "0.0.17",
+    "apollo-server": "^3.1.2",
+    "apollo-server-core": "^3.1.2",
+    "apollo-server-micro": "^3.1.2",
+    "graphql": "^15.5.1",
+    "micro": "^9.3.4",
+    "micro-cors": "^0.1.1",
+    "net": "^1.0.2"
   }
 }
